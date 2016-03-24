@@ -1,8 +1,8 @@
-      .navbar-brand {
+.navbar-brand {
         font-size: 1.8em;
       }
 
-      #topContainer {
+      #home {
         width: 100%;
         background-image: url("potato_background.jpg");
         background-size: cover;
@@ -14,7 +14,7 @@
 
       #topRow {
         text-align: center;
-      }
+      }`
 
       #topRow h1 {
         font-size: 300%;
@@ -37,7 +37,7 @@
         font-size: 350%;
       }
 
-      #footer {
+      #download {
         background-color: #dfbf9f;
         width: 100%;
         padding-top: 70px;
